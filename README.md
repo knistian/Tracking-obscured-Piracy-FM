@@ -16,8 +16,8 @@ Background:
 The state of Norway has built a (Digital Audio Broadcast)DAB-network, and has, from 2018, outlawed FM-transmission on a national basis. Thus monopolized the radio-media in the country.  
 The national monopoly is threatening free speech. 
 
-The government of Norway has rewarded broadcasting licence only to its own, Governmentally supported broadcaster Monopoly together with a foreign, commercial (big-capital) broadcaster.  This foreign channel are only transmitting music and small talk anyways, so they are not really a threat to the ruling class.
-This the later broadcaster will also never go against the ruling regime in fare of loss of future broadcast license. 
+The government of Norway has rewarded broadcasting licence only to its own, Governmentally supported broadcaster Monopoly together with a foreign, commercial (big-capital) broadcaster.  This foreign channel are only transmitting music and small talk anyways, so they are not really a threat to the ruling regime.
+This second broadcaster will also never go against the ruling regime in fare of loss of future broadcast licenses. 
 
 Aim of project:
 -------------------
