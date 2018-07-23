@@ -42,8 +42,13 @@ If transmitter-element(agent) is located, still will obscure the rest of the tra
 Structure-Elements:
 -----------------------
 •	Audio-source (studio)
+
 •	Audio-feed-network(IP-network)
+
 •	Agent-Status-feedback(IP-network)
+
 •	Sync mechanism (GPS, w. GPS-jammer-detect)
+
 •	Transmitter-agent(unit) w. tracking counter measures
+
 
