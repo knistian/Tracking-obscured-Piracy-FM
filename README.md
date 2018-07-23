@@ -25,16 +25,23 @@ Creating and design of a FM-transmitter-structure of robust, hard to track, FM-b
 
 Design goals:
 -------------------
-What transition techniques exist that can be used as tools for hiding or obscure transmitter locations?
+•	What transition techniques exist that can be used as tools for hiding or obscure transmitter locations?
 
-Multi-transmitter-matrix
-Fast Time switching
-Frequency switching
-Transmitter-strengh-switching
-Interference-problematics
-«sleaping-agent-transmitter» Slow time switching.
-Large number of transmitter-agents.
-Short-frequency-offset, parallel transmition(like tunnel-transmitters)
+•	Multi-transmitter-matrix
+
+•	Fast Time switching
+
+•	Frequency switching
+
+•	Transmitter-strengh-switching
+
+•	Interference-problematics
+
+•	«sleaping-agent-transmitter» Slow time switching.
+
+•	Large number of transmitter-agents.
+
+•	Short-frequency-offset, parallel transmition(like tunnel-transmitters)
 
 FM-transmitter-matrix for un-trackable Piracy-transmition
 If transmitter-element(agent) is located, still will obscure the rest of the transmitter-structure and ensure feed-anonymity, obscurity of audio-source-feed.
