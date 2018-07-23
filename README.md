@@ -21,7 +21,7 @@ This second broadcaster will also never go against the ruling regime in fare of 
 
 Aim of project:
 -------------------
-Creating and design of a FM-transmitter-structure of robust, hard to track, FM-based piracy transmitters. To obscure the back-end feed-source, and transmitter structure, with the help of all tools in the tool-box. 
+Creating and design of a FM-transmitter-structure of robust, hard to track, FM-based piracy transmitters. To obscure the transmitter locations, the transmitter structure and the back-end feed-source. Project is aiming at going broadly out in serache to identify all relevant tracking techniques and build strong counter measures. Based on the tools, construct transmitter units with the best and most complete built in countermeasures and build the software back end for feeding payload signal to the system in an obscured way.
 
 Design goals:
 -------------------
