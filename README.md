@@ -6,9 +6,9 @@ Hardware/Software project.
 Need help from people with good knowledge in RF-technology, IP and IP-security.
 
 
-======================================================================================================================
+==================================
 Title: Transmiter-strategy for “untraceable” Piracy FM broadcast
-----------------------------------------------------------------------------------------------------------------------
+----------------------------------
 
 Background:
 ----------------
