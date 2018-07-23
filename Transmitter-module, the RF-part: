@@ -1,0 +1,20 @@
+Transmitter-module, the RF-part:
+
+Quality-goal: The transmitter should send a signal that in quality would be good enough for proffesional audio transmision, 
+however:  it would not carry any ID-information, only the stereo sub-carrier.  
+
+*Should not interfere with other channels, but maintain a clean band-limited, and none overmodulated signal.
+
+*Frequency range: Full FM-range: 87-108 MHz
+
+* PLL-controlled. Programmable transmition frequency, to set the transmitter with high presition over a large range 
+of the FM-frequency range
+
+* Transmitter should have built in mecanisms for tracking counter measures. Gain control, Frequency control, Fast on-off, for seem-les switch between agents
+
+* PLL locked to GPS-1PPS to ensure network-wide syncronisation of transmitter frequency- and agent-hoping and other time-critical counter-measures.
+
+
+
+Antenna: separate project.
+
