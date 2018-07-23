@@ -44,7 +44,7 @@ Design goals:
 •	Short-frequency-offset, parallel transmition(like tunnel-transmitters)
 
 FM-transmitter-matrix for un-trackable Piracy-transmition
-If transmitter-element(agent) is located, still will obscure the rest of the transmitter-structure and ensure feed-anonymity, obscurity of audio-source-feed.
+If transmitter-element(agent) is tracked down,located and seaced by the Authorities, the rest of the system still will be able to obscure the rest of the transmitter-structure and ensure feed-anonymity, obscurity of audio-source-feed and other agents.
 
 Structure-Elements:
 -----------------------
