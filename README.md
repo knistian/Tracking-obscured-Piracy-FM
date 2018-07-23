@@ -59,3 +59,57 @@ Structure-Elements:
 •	Transmitter-agent(unit) w. tracking counter measures
 
 
+
+
+
+
+Controll-strategy:
+--------------------
+CPU
+
+* communication-interface
+* anti-hacking-strategy(the devise will be exposed to the internet somehow, with all that comes with it)
+* Strategy to be robust against DoA from Tracking authorities
+
+Back-end(Audio-Feed and status-return):
+-------------------------------------------
+* optimal Physical layer (low tracability: laser/electric/radio/ultrasound/IP by pigeon :-) )
+* obscure internet-routing (Tor? Torrent? "dark web"? )
+
+Front-end(transmition)
+----------------------
+* Counter-measures against RF-tracking.
+* transmitter-strategy, tools and trix for obscuring the transmitters in the structure.
+analyze the techniques for tracking down priat-transmitters, and see if the techniques can be used against tracters.
+
+Possible trix/tecqniques:
+-------------------------
+* Multi-transmitter-matrix
+
+* Fast Time switching(he individual agent is active in time-slots
+
+* Frequency switching( in case of frequenzy-jamming by the authorities, shift network working-frequency)
+
+* Transmitter-strengh-switching(detere trackers from using signal sterngth to locate transmitter)
+
+* «sleaping-agent-transmitter» Slow time switching. (let many agents sleep, and reconfiggute whole network structure, so the tracker have to starte all over again.
+
+* Large number of transmitter-agents. The more, the better, so larger presentage of the agents can sleep at any given time.
+
+* Short-frequency-offset, parallel transmition(like FM-tunnel-transmitters) For targeting the Interference problematics of multy transmitter techniques
+
+* GPS-coordination of transmitter frequenzy by PLL to the 1PPS beat.(is it posible?) .
+
+* GPS-jamming by the authorities: Posible way to make single agent or part of the network out of sync.
+
+* Agent-counter-measure is multi-GPS-antenna, with position-comparison.(If the GPS-signal come from a GPS-simulator, the Location of the satelites will look alike, compared to real satelites)
+
+Problems and Limitations:
+----------------------------
+Interference-problematics
+Interference between agents: can it be used constructively?
+
+* System will be unpractical for mobile reseption. (Even with two close transmition-frequenzies(tunnel-transmitter recnique?)
+
+* can stationarry reseption be acheived with acceptable reseption quality?
+
