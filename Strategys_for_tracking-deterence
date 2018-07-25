@@ -1,0 +1,33 @@
+1) Active jamming of trackers:   
+-------------
+
+
+
+
+
+
+1) Active jamming of trackers:   
+-------------
+Decoi-transmitters: spred of lot's of low-power transmitter units, to create local confusion for the tracker. 
+If the tracker is close to a decoi, the apparent power would look high, and can look like the real target, 
+while giving false dirrection and streangth for the tracker.
+
+Discussion: (+/-)
+  * How about interference with the real transmitter? 
+  * Would not the authorities just remove the decois?(maybe use the same strategy of time-controll, onn-off on un-regular time schedual?)
+
+
+
+1) Structural
+----------------
+A network of transmitters, sending on same, syncronized transmitter-frequenzy.  
+This require exact syncronisation of all transmitters. Would be posible for a 
+pilot-carrier, using sync with a common clock-source, fex. GPS-1PPS?, but what about 
+a modulated signal? If not all transmitters is not able to sending (and it would be nearly imposible) 
+with the same modulation-strength, the RF-wave would emideately come out of phase, 
+and be a mess of interfering transmitters. For this to work, the Modulated signal 
+has to be generated centrally, and distributed to all the agents by a realtime distributing network, possibly 
+by a highter frequenzy distributing/feeding transmition, for example in a micro-wave band. or optical? 
+
+
+2) 
