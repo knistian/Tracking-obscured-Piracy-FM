@@ -58,6 +58,8 @@ Structure-Elements:
 
 •	Transmitter-agent(unit) w. tracking counter measures
 
+•	Antennas,  w. tracking counter measures (directionality?, visual dessign(hard to spot, hard to access)
+
 
 
 
